@@ -21,17 +21,17 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/ArisLooi/todo-app.git
 2. Navigate to the project directory:
-    bash
+    ```bash
     cd todo-app
 3. Install the dependencies:
-    bash
+    ```bash
     npm install
 
 ## Usage
 1. Start the development server:
-    bash
+    ```bash
     npm run dev
-2. Open your browser and navigate to http://localhost:3000.
+2. Open your browser and navigate to local host link as shown in terminal.
 
 ## Project Structure
 todo-app/
